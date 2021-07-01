@@ -5,6 +5,9 @@
 [![Issue Count](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/issue_count.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/issues)
 [![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
 
+# About 
+Код для курса PHP: Автоматическое тестирование на [Хекслете](https://ru.hexlet.io/courses/php-testing)
+
 ## Addons
 
 Use <http://psysh.org/>
