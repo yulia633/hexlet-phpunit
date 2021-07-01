@@ -1,6 +1,5 @@
 <?php
 
-//namespace Hexlet\Phpunit\Stack;
 namespace Php\Package;
 
 // Вымышленная библиотека
