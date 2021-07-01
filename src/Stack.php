@@ -16,12 +16,12 @@ class Stack
         return count($stack) === 0;
     }
 
-    public function push(mixed &$stack, mixed $element): void
+    public function push(array &$stack, string $element): void
     {
         array_push($stack, $element);
     }
 
-    public function pop(mixed &$stack): array
+    public function pop(array &$stack): string
     {
         if ($this->isEmpty($stack)) {
             throw new \Exception("Stack is empty!");
