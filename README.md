@@ -1,6 +1,4 @@
-# php-package
-
-[![Github Actions Status](https://github.com/hexlet-phpunit/workflows/PHP%20CI/badge.svg)](https://github.com/yulia633/hexlet-phpunit/actions)
+[![Github Actions Status](https://github.com/hexlet-phpunit/workflows/PHP%20CI/badge.svg)](https://github.com/yulia633/hexlet-phpunit)
 [![Maintainability](https://api.codeclimate.com/v1/badges/22eea517706bc44982d6/maintainability)](https://codeclimate.com/github/yulia633/hexlet-phpunit/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/22eea517706bc44982d6/test_coverage)](https://codeclimate.com/github/yulia633/hexlet-phpunit/test_coverage)
 
